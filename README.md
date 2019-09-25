@@ -1,0 +1,2 @@
+# Strataop
+management project
